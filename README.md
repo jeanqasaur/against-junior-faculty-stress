@@ -6,3 +6,4 @@ A reading list.
   * [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/), Radhika Nagpal (Harvard Computer Science), _Scientific American_, July 2013.
   * [On Avoiding Stress Culture](http://jxyzabc.blogspot.com/2016/09/on-avoiding-stress-culture.html), Jean Yang (Carnegie Mellon Computer Science), personal blog, September 2016.
   * [Shriram Krishnamurthi's Personal Manifesto](https://plus.google.com/+ShriramKrishnamurthi/posts/AF24ykaQYXw?sfc=true), Shriram Krishnamurthi (Brown Computer Science), Google+, September 2016.
+  * [The Best Way to Not Get Tenure](https://blue.cse.buffalo.edu/posts/2016-10-22-the-best-way-to-not-get-tenure/), Geoffrey Challen (University at Buffalo), personal blog, October 2016
