@@ -9,3 +9,4 @@ A reading list.
   * [The Best Way to Not Get Tenure](https://blue.cse.buffalo.edu/posts/2016-10-22-the-best-way-to-not-get-tenure/), Geoffrey Challen (University at Buffalo), personal blog, October 2016
   * [Why I Don’t Tell Trainees How Many Hours I Work as a Tenure-Track Faculty Member](http://drsherrirose.com/why-i-dont-tell-trainees-how-many-hours-i-work-as-a-tenure-track-faculty-member) and [Advice on How to Be an Effective PhD Researcher](http://drsherrirose.com/how-to-be-an-effective-phd-researcher), Sherri Rose, personal blog, June 2016 and August 2015
   * [You Do Not Need to Work 80 Hours a Week to Succeed in Academia](https://dynamicecology.wordpress.com/2014/02/04/you-do-not-need-to-work-80-hours-a-week-to-succeed-in-academia/), Megan Duffy, personal blog, February 2014
+  * [HOWTO: Get tenure](http://matt.might.net/articles/tenure/), Matt Might's account of how focusing on his tenure process.  Discusses  the cynicism about getting tenure.
